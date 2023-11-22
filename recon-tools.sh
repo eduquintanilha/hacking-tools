@@ -15,6 +15,8 @@ go install github.com/lc/gau/v2/cmd/gau@latest
 go install -v github.com/tomnomnom/anew@latest
 go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 go install github.com/ffuf/ffuf/v2@latest
+go install github.com/hahwul/dalfox/v2@latest
+go install github.com/haccer/subjack@latest
 
 
 sudo apt install jq zip unzip python3-pip -y
