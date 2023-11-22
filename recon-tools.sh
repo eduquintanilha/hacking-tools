@@ -17,7 +17,7 @@ go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 go install github.com/ffuf/ffuf/v2@latest
 go install github.com/hahwul/dalfox/v2@latest
 go install github.com/haccer/subjack@latest
-
+pip3 install uro
 
 sudo apt install jq zip unzip python3-pip -y
 
